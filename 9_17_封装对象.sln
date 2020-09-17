@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_递归方法", "03_递�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_迭代器方法", "04_迭代器方法\04_迭代器方法.csproj", "{784A23E0-6D65-495F-BD35-AF76F837725A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_属性", "05_属性\05_属性.csproj", "{8B85114B-2CE0-4B6D-B866-7E2A679CD27B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{784A23E0-6D65-495F-BD35-AF76F837725A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{784A23E0-6D65-495F-BD35-AF76F837725A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{784A23E0-6D65-495F-BD35-AF76F837725A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B85114B-2CE0-4B6D-B866-7E2A679CD27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B85114B-2CE0-4B6D-B866-7E2A679CD27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B85114B-2CE0-4B6D-B866-7E2A679CD27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B85114B-2CE0-4B6D-B866-7E2A679CD27B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
